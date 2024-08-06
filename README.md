@@ -1,7 +1,7 @@
 # Welcome to the 999whitedevil GitHub Account
 
 ## About Me
-Hello there! I am Aditya Kumar, the owner of this GitHub account. I am a passionate software developer with a keen interest in creating innovative and efficient solutions. With the support of my talented team, I have been able to bring to life several exciting projects and programs.
+Hello there! I am Aditya Kumar Sahu, Founder, CEO, and Managing Director of Saoho Group, and an active member of ISC2 Hyderabad Chapter. As a dedicated and passionate bachelor student, I am deeply immersed in IT technologies, specializing in Ethical Hacking, Cybersecurity, and Entrepreneurship. My goal is to leverage my skills and knowledge to drive positive impacts in both business and cybersecurity realms & I am a passionate  developer with a keen interest in creating innovative and efficient solutions. With the support of my talented team, I have been able to bring to life several exciting projects and programs.
 
 ## My Team and Collaboration
 I firmly believe in the power of teamwork and collaboration. The success of the projects and programs showcased in this repository is a testament to the hard work, dedication, and combined efforts of my team members and myself. Each team member brings a unique set of skills and expertise to the table, allowing us to tackle challenges and deliver outstanding results.
