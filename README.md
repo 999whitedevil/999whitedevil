@@ -19,8 +19,7 @@ Feel free to reach out to me or my team members for any inquiries, collaboration
 
 - Name: Aditya Kumar sahu
 - Github: github https://github.com/999whitedevil
-- Linkdin : linkdin https://www.linkedin.com/in/aditya-kumar-66101827a/
+- Linkdin : www.linkedin.com/in/adityakumarsahu-founder-saoho
 - Twetter: twetter https://twitter.com/AdityaK32829098
-- Discord : (btw_justin_99#6079)
 
 Thank you for visiting the 999whitedevil GitHub account. Happy coding!
